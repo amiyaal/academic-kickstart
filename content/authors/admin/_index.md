@@ -23,6 +23,7 @@ organizations:
 interests:
 - Behavioral ecology
 - Social networks
+- Sexual selection
 - Animal communication
 
 education:
