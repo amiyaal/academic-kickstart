@@ -68,7 +68,6 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Researchers
-- Visitors
 ---
 
 Our lab utilizes a range of approaches to study animal sociality. We are involved in long-term studies of wild animals such as the rock hyrax and the Arabian babbler. We introduce state-of-the-art technologies to gain new insights into social networks and animal communication. We also develop theory to test our interpretation of observed patterns.
